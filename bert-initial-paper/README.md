@@ -1,0 +1,3 @@
+# IMPLEMENTING BERT FROM FIRST PRINCIPLES
+
+In this repo, I am going to use Pytorch to implement the model from the paper [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/pdf/1810.04805.pdf), whose ideas I initially learned from the [Natural Language Processing with Deep Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ) course.
